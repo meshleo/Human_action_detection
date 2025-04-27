@@ -1,0 +1,3 @@
+TO GET ACCESS TO THE MODELS, USE THIS DRIVE LINK
+https://drive.google.com/drive/folders/12OE9s95P0UBMZTyDmjmv1ZaAF1sC0bSG?usp=sharing
+MODEL STRUCTURE
