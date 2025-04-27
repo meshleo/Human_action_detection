@@ -1,0 +1,14 @@
+# Ignore model 1 virtual environment
+model\ 1/myenv/
+
+# Ignore model 2 virtual environment
+model\ 2/human-activity-recognition-master/venv/
+
+# Ignore model 3 virtual environment
+model\ 3/venv/
+
+# Ignore model folders
+model\ 1/model/
+model\ 2/human-activity-recognition-master/model/
+
+*.h5

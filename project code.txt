@@ -1,0 +1,15 @@
+1.myenv\Scripts\activate
+cd activity_recognition 
+py manage.py runserver
+
+
+
+2.
+ cd .\human-activity-recognition-master\  
+.\venv\Scripts\activate
+python recognise_human_activity.py         
+
+  
+
+3. .\venv\Scripts\activate
+    python test.py
